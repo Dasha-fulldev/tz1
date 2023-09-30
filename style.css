@@ -42,6 +42,10 @@ body{
     text-transform: uppercase;
 }
 
+.menu-item .link:hover {
+    color: red;
+}
+
 .welcome{
     margin-top: 100px;
     color: white;
